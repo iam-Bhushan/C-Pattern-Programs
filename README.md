@@ -1,6 +1,9 @@
 # C-Pattern-Programs
-Creating Patterns in C Programming
+---
 
+> Creating Patterns in C Programming 
+
+---
 ### Pattern 1
 
 ```
@@ -11,6 +14,8 @@ Creating Patterns in C Programming
 * * * * *
 ```
 [Link Pattern 1](1.c)
+
+---
 ### Pattern 2
 
 ```
@@ -22,3 +27,16 @@ Creating Patterns in C Programming
 ```
 [Link Pattern 2](2.c)
 
+---
+### Pattern 3
+
+```
+1 2 3 4 5 
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+```
+[Link Pattern 3](3.c)
+
+---
