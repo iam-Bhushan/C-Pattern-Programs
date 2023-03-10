@@ -301,3 +301,157 @@ E E E E E
 [Link Pattern 26](26.c)
 
 ---
+### Pattern 27
+```
+A B C D E 
+A B C D E
+A B C D E
+A B C D E
+A B C D E
+```
+[Link Pattern 27](27.c)
+
+---
+### Pattern 28
+```
+E E E E E 
+D D D D D
+C C C C C
+B B B B B
+A A A A A
+```
+[Link Pattern 28](28.c)
+
+---
+### Pattern 29
+```
+E D C B A 
+E D C B A
+E D C B A
+E D C B A
+E D C B A
+```
+[Link Pattern 29](29.c)
+
+---
+### Pattern 30
+```
+A B C D E 
+F G H I J
+K L M N O
+P Q R S T
+U V W X Y
+```
+[Link Pattern 30](30.c)
+
+---
+### Pattern 31
+```
+A B C D E 
+B C D E F
+C D E F G
+D E F G H
+E F G H I
+```
+[Link Pattern 31](31.c)
+
+---
+### Pattern 32
+```
+A F K P U 
+B G L Q V
+C H M R W
+D I N S X
+E J O T Y
+```
+[Link Pattern 32](32.c)
+
+---
+### Pattern 33
+```
+E J O T Y 
+D I N S X
+C H M R W
+B G L Q V
+A F K P U
+```
+[Link Pattern 33](33.c)
+
+---
+### Pattern 34
+```
+* 
+* *
+* * *
+* * * *
+* * * * *
+```
+[Link Pattern 34](34.c)
+
+---
+### Pattern 35
+```
+1 
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+```
+[Link Pattern 35](35.c)
+
+---
+### Pattern 36
+```
+1 
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+```
+[Link Pattern 36](36.c)
+
+---
+### Pattern 37
+```
+5 
+4 4
+3 3 3
+2 2 2 2
+1 1 1 1 1
+```
+[Link Pattern 37](37.c)
+
+---
+### Pattern 38
+```
+5 
+5 4
+5 4 3
+5 4 3 2
+5 4 3 2 1
+```
+[Link Pattern 38](38.c)
+
+---
+### Pattern 39
+```
+5 
+4 5
+3 4 5
+2 3 4 5
+1 2 3 4 5
+```
+[Link Pattern 39](39.c)
+
+---
+### Pattern 40
+```
+2 
+2 4
+2 4 6
+2 4 6 8
+2 4 6 8 10
+```
+[Link Pattern 40](40.c)
+
+---
