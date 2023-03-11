@@ -455,3 +455,56 @@ A F K P U
 [Link Pattern 40](40.c)
 
 ---
+### Pattern 41
+```
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+```
+[Link Pattern 41](41.c)
+
+---
+### Pattern 42
+```
+1 
+2 3
+3 4 5
+4 5 6 7
+5 6 7 8 9
+```
+[Link Pattern 42](codeFiles/42.c)
+
+---
+### Pattern 43
+```
+1 
+3  5
+5  7  9
+7  9 11 13
+9 11 13 15 17
+```
+[Link Pattern 43](codeFiles/43.c)
+
+---
+### Pattern 44
+```
+ 1 
+ 3  2
+ 6  5  4
+10  9  8  7
+```
+[Link Pattern 44](codeFiles/44.c)
+
+---
+### Pattern 45
+```
+ 1 
+ 3  5
+ 7  9 11
+13 15 17 19
+21 23 25 27 29
+```
+[Link Pattern 45](codeFiles/45.c)
+
+---
