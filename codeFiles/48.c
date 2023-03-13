@@ -7,7 +7,7 @@ void main()
         m = i;
         for (j = 5; j >= i; j--)
         {
-            printf("%d ", k);
+            printf("%2d ", k);
             k = k-m;
             m++;
         }
