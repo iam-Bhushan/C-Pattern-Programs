@@ -530,3 +530,14 @@ A F K P U
 [Link Pattern 47](codeFiles/47.c)
 
 ---
+### Pattern 48
+```
+ 1 
+ 6  2
+10  7  3
+13 11  8  4
+15 14 12  9  5
+```
+[Link Pattern 48](codeFiles/48.c)
+
+---
