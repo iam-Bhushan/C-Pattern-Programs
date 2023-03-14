@@ -541,3 +541,4 @@ A F K P U
 [Link Pattern 48](codeFiles/48.c)
 
 ---
+### More Patterns Are Coming
